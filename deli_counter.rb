@@ -2,7 +2,7 @@
 # Write your code here.
 katz_deli = []
 
-def line(array) 
+def line(array)
   if array.length >= 1
     nuarray = []
     counter = 1
