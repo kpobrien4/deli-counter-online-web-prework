@@ -32,7 +32,7 @@ def now_serving(katz_deli)
    end
  end
 
- take_a_number(katz_deli, name)
+ take_a_number(katz_deli, new_person)
 
 puts now_serving(katz_deli)
 puts katz_deli
